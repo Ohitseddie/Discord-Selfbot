@@ -1,4 +1,4 @@
-@echo off
+@echo on
 SET root=%~dp0
 CD /D %root%
 SETLOCAL EnableDelayedExpansion
